@@ -217,4 +217,3 @@ conventions.
 ## License
 
 Jitsu is licensed under the [MIT License](LICENSE).
-test
